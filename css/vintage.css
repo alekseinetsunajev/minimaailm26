@@ -1,0 +1,200 @@
+:root {
+  --cream: #eae6dc;
+  --panel: #f0ebe0;
+  --red: #8b1a1a;
+  --ink: #1c1c1c;
+  --muted: #3d3830;
+  --frame: #2a2520;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, Roboto, sans-serif;
+  line-height: 1.55;
+  color: var(--ink);
+  background: var(--cream);
+}
+
+.site-header {
+  padding: 1.75rem 1rem;
+  background: var(--panel);
+  border: 3px double var(--frame);
+  margin: 1rem;
+  text-align: center;
+}
+
+.site-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--red);
+}
+
+.tagline {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.lang-nav {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.lang-nav a {
+  font-size: 0.85rem;
+  color: var(--red);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.lang-nav a[aria-current="page"] {
+  font-weight: 800;
+}
+
+.lang-nav .sep {
+  color: var(--muted);
+  user-select: none;
+}
+
+main {
+  padding: 0 1rem 3rem;
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+main > section {
+  margin-bottom: 1.5rem;
+  padding: 1.25rem 1.25rem 1.5rem;
+  background: var(--panel);
+  border: 2px solid var(--frame);
+}
+
+main > section h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.05rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--red);
+  border-bottom: 2px solid var(--red);
+  padding-bottom: 0.35rem;
+}
+
+main > section p {
+  margin: 0 0 0.85rem;
+  font-size: 0.95rem;
+}
+
+.exhibition-photo {
+  margin-top: 1rem;
+  width: 100%;
+  height: auto;
+  display: block;
+  min-height: 200px;
+  max-height: 480px;
+  object-fit: cover;
+  background: #d8d2c6;
+  border: 3px double var(--frame);
+}
+
+.caption {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.model-list {
+  display: block;
+}
+
+#other-models .model-card {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid var(--frame);
+  background: var(--cream);
+}
+
+#other-models .model-card:first-of-type {
+  margin-top: 0;
+}
+
+#other-models h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1rem;
+  color: var(--ink);
+}
+
+.model-blurb {
+  font-size: 0.88rem;
+  color: var(--muted);
+  margin-bottom: 0.65rem !important;
+}
+
+.thumbs {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.thumb {
+  flex: 1 1 72px;
+  min-height: 52px;
+  max-width: 120px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  background: #c9c2b4;
+  border: 2px solid var(--frame);
+  display: block;
+}
+
+/* Root language landing (index.html) */
+body.lang-landing main {
+  padding-top: 0.5rem;
+}
+
+.lang-choices {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 22rem;
+  margin: 1.5rem auto 0;
+}
+
+.lang-choices a {
+  display: block;
+  padding: 1rem 1.25rem;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--red);
+  background: var(--cream);
+  border: 2px solid var(--frame);
+}
+
+.lang-choices a:hover {
+  background: var(--panel);
+}
+
+.lang-choices a small {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: normal;
+  color: var(--muted);
+}
