@@ -118,6 +118,7 @@ main > section p {
   display: block;
 }
 
+#exhibition-feature .model-card,
 #other-models .model-card {
   margin-top: 1rem;
   padding: 1rem;
@@ -125,14 +126,34 @@ main > section p {
   background: var(--cream);
 }
 
+#exhibition-feature .model-card {
+  margin-top: 0;
+}
+
 #other-models .model-card:first-of-type {
   margin-top: 0;
 }
 
+#exhibition-feature h3,
 #other-models h3 {
   margin: 0 0 0.35rem;
   font-size: 1rem;
   color: var(--ink);
+}
+
+.model-details {
+  margin: 0 0 0.65rem;
+  font-size: 0.88rem;
+}
+
+.model-details dt {
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.model-details dd {
+  margin: 0 0 0.35rem 0;
+  color: var(--muted);
 }
 
 .model-blurb {
@@ -157,6 +178,57 @@ main > section p {
   background: #c9c2b4;
   border: 2px solid var(--frame);
   display: block;
+  cursor: pointer;
+}
+
+.thumb:hover {
+  outline: 2px solid var(--red);
+  outline-offset: 1px;
+}
+
+.photo-lightbox {
+  position: relative;
+  border: 3px double var(--frame);
+  padding: 0;
+  max-width: min(90vw, 56rem);
+  width: max-content;
+  background: var(--panel);
+}
+
+.photo-lightbox::backdrop {
+  background: rgba(28, 28, 28, 0.72);
+}
+
+.photo-lightbox .lightbox-img {
+  display: block;
+  max-width: 100%;
+  max-height: 85vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  background: #d8d2c6;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 0.35rem;
+  right: 0.35rem;
+  z-index: 1;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 2px solid var(--frame);
+  background: var(--cream);
+  color: var(--red);
+  font-size: 1.35rem;
+  line-height: 1;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.lightbox-close:hover {
+  background: var(--red);
+  color: var(--cream);
 }
 
 /* Root language landing (index.html) */

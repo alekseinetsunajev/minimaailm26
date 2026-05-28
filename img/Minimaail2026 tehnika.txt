@@ -1,14 +1,4 @@
-﻿FOLDER: 133G2
-Mark: ZIL 133G2
-Mudel: AC-40(181A)
-Veoki kuuluvas: Emmaste komando
-Mudeli valmimise aasta: 2021
-Kasutatud põhimudel: AVD ZIL 133GJA
-Kasutatud materjalid: Plastik, metall
-Kulunud aeg: 3 nädalat
-
-
-FOLDER: 130V1
+﻿FOLDER: 130V1
 Mark: ZIL 130V1 + poolhaagis 
 Mudel: AV-6 (vahuauto)
 Veoki kuuluvas: 5.ISTÜ TALLINN
@@ -16,6 +6,16 @@ Mudeli valmimise aasta: 2025
 Kasutatud põhimudel: AVD ZIL 130V1
 Kasutatud materjalid: Plastik, metall, 3D prinditud detailid, fotosöövitus
 Kulunud aeg: 7 nädalat
+
+
+FOLDER: 133G2
+Mark: ZIL 133G2
+Mudel: AC-40(181A)
+Veoki kuuluvas: Emmaste komando
+Mudeli valmimise aasta: 2021
+Kasutatud põhimudel: AVD ZIL 133GJA
+Kasutatud materjalid: Plastik, metall
+Kulunud aeg: 3 nädalat
 
 
 FOLDER: 130TONDI
@@ -46,8 +46,6 @@ Mudeli valmimise aasta: 2014
 Kasutatud põhimudel: VAIGUST DETAILIDE KOMPLEKT
 Kasutatud materjalid: VAIK, PLASTIK
 Kulunud aeg: 5 nädalat
-
-
 
 
 FOLDER: KUNG
@@ -218,13 +216,3 @@ Mudeli valmimise aasta: 2026
 Kasutatud põhimudel: SSM MAZ-5334
 Kasutatud materjalid: PLASTIK, METALL, FÖTOSÖÖVITUS
 Kulunud aeg: 4 nädalat
-
-
-FOLDER: AC4
-Mark: ZIL-131
-Mudel: AC4.0
-Veoki kuuluvas: KODE KOMANDO
-Mudeli valmimise aasta: 2026
-Kasutatud põhimudel: SSM ZIL131 AC4.0
-Kasutatud materjalid: PLASTIK, METALL, FÖTOSÖÖVITUS
-Kulunud aeg: 2 nädalat
