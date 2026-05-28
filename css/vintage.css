@@ -187,10 +187,16 @@ main > section p {
 }
 
 .photo-lightbox {
-  position: relative;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
   border: 3px double var(--frame);
   padding: 0;
   max-width: min(90vw, 56rem);
+  max-height: 90vh;
+  overflow: auto;
   width: max-content;
   background: var(--panel);
 }
