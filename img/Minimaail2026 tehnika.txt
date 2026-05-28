@@ -1,0 +1,230 @@
+﻿FOLDER: 133G2
+Mark: ZIL 133G2
+Mudel: AC-40(181A)
+Veoki kuuluvas: Emmaste komando
+Mudeli valmimise aasta: 2021
+Kasutatud põhimudel: AVD ZIL 133GJA
+Kasutatud materjalid: Plastik, metall
+Kulunud aeg: 3 nädalat
+
+
+FOLDER: 130V1
+Mark: ZIL 130V1 + poolhaagis 
+Mudel: AV-6 (vahuauto)
+Veoki kuuluvas: 5.ISTÜ TALLINN
+Mudeli valmimise aasta: 2025
+Kasutatud põhimudel: AVD ZIL 130V1
+Kasutatud materjalid: Plastik, metall, 3D prinditud detailid, fotosöövitus
+Kulunud aeg: 7 nädalat
+
+
+FOLDER: 130TONDI
+Mark: ZIL 130
+Mudel: AC-40(63B)
+Veoki kuuluvas: Tondi komando
+Mudeli valmimise aasta: 2023
+Kasutatud põhimudel: AVD ZIL 130 AC40
+Kasutatud materjalid: Plastik, metall, fotosöövitus
+Kulunud aeg: 3 nädalat
+
+
+FOLDER: 505A
+Mark: KAMAZ 53213
+Mudel: KO-505A ümberehitus
+Veoki kuuluvas: Kopli komando
+Mudeli valmimise aasta: 2023
+Kasutatud põhimudel: AVD KAMAZ 53213 KO-505A
+Kasutatud materjalid: Plastik, metall, fotosöövitus
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: ANR40
+Mark: ZIL-43141
+Mudel: ANR-40(127B)
+Veoki kuuluvas: MUSTAMÄE komando
+Mudeli valmimise aasta: 2014
+Kasutatud põhimudel: VAIGUST DETAILIDE KOMPLEKT
+Kasutatud materjalid: VAIK, PLASTIK
+Kulunud aeg: 5 nädalat
+
+
+
+
+FOLDER: KUNG
+Mark: ZIL-131
+Mudel: KUNG
+Veoki kuuluvas: MUSTAMÄE komando
+Mudeli valmimise aasta: 2024
+Kasutatud põhimudel: SSM ZIL131 KUNG
+Kasutatud materjalid: METALL, PLASTIK, FOTOSÖÖVITUS
+Kulunud aeg: 2 nädalat
+
+
+FOLDER: BRONTO
+Mark: SCANIA P94G
+Mudel: BRONTO SKYLIFT F42 HDT2000
+Veoki kuuluvas: KESKLINNA komando
+Mudeli valmimise aasta: 2000
+Kasutatud põhimudel: -
+Kasutatud materjalid: PLASTIK
+Kulunud aeg: 8 nädalat
+
+
+FOLDER: 131 PIRITA
+Mark: ZIL-131
+Mudel: AC-40(137A)
+Veoki kuuluvas: PIRITA komando
+Mudeli valmimise aasta: 2008
+Kasutatud põhimudel: ELEKON ZIL131 AC-40
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 2 nädalat
+
+
+FOLDER: AL30 NOMME
+Mark: ZIL-131
+Mudel: AR-30(PM-506)
+Veoki kuuluvas: NÕMME komando
+Mudeli valmimise aasta: 2004
+Kasutatud põhimudel: ELEKON ZIL131
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: AL30 KESKLINNA
+Mark: ZIL-131
+Mudel: AR-30(PM-506)
+Veoki kuuluvas: KESKLINNA komando
+Mudeli valmimise aasta: 2016
+Kasutatud põhimudel: SSM ZIL131 AR-30
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 1 nädalat
+
+
+FOLDER: AR2
+Mark: ZIL-131
+Mudel: AR-2(133)
+Veoki kuuluvas: HARJU-RISTI komando
+Mudeli valmimise aasta: 2007
+Kasutatud põhimudel: ELEKON ZIL131
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 2 nädalat
+
+
+FOLDER: AP5
+Mark: KAMAZ-53213
+Mudel: AP-5(196)
+Veoki kuuluvas: NARVA(?)
+Mudeli valmimise aasta: 2007
+Kasutatud põhimudel: ELEKON KAMAZ-53213 AP-5
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 2 nädalat
+
+
+FOLDER: AKP30
+Mark: KAMAZ-53213
+Mudel: AKP-30
+Veoki kuuluvas: VALGA KOMANDO
+Mudeli valmimise aasta: 2025
+Kasutatud põhimudel: AVD KAMAZ-5320
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 8 nädalat
+
+
+FOLDER: 43105
+Mark: KAMAZ-43105
+Mudel: MULTILIFT
+Veoki kuuluvas: MUSTAMÄE KOMANDO
+Mudeli valmimise aasta: 2008
+Kasutatud põhimudel: ELEKON KAMAZ-4310
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: 131 TAPA
+Mark: ZIL-131
+Mudel: AC-40(137A)
+Veoki kuuluvas: TAPA KOMANDO
+Mudeli valmimise aasta: 2021
+Kasutatud põhimudel: AVD ZIL-131 AC-40
+Kasutatud materjalid: PLASTIK, METALL, FOTOSÖÖVITUS
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: 53A
+Mark: GAZ-53A
+Mudel: AC-30(106A)
+Veoki kuuluvas: LELLE KOMANDO
+Mudeli valmimise aasta: 2021
+Kasutatud põhimudel: SSM GAZ-53A AC-30
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 1 nädalat
+
+
+FOLDER: TSV
+Mark: ZIL-130
+Mudel: TSV-6 ÜMBEREHITUS
+Veoki kuuluvas: KAMBJA KOMANDO
+Mudeli valmimise aasta: 2022
+Kasutatud põhimudel: AVD ZIL-130 TSV-6
+Kasutatud materjalid: PLASTIK, METALL, FOTOSÖÖVITUS
+Kulunud aeg: 3 nädalat
+
+
+FOLDER: 66
+Mark: GAZ-66
+Mudel: AC-30(146)
+Veoki kuuluvas: KABEENEEME KOMANDO
+Mudeli valmimise aasta: 2017
+Kasutatud põhimudel: ELEKON GAZ-66 AC-30
+Kasutatud materjalid: PLASTIK, METALL, FOTOSÖÖVITUS
+Kulunud aeg: 1 nädalat
+
+
+FOLDER: 13O KESKLINNA
+Mark: ZIL-130
+Mudel: AC-40(63B)
+Veoki kuuluvas: KESKLINNA KOMANDO
+Mudeli valmimise aasta: 2003
+Kasutatud põhimudel: KAMENETS-PODOLSKI ZIL-130
+Kasutatud materjalid: PLASTIK, METALL
+Kulunud aeg: 3 nädalat
+
+
+FOLDER: G6
+Mark: KAMAZ-53212
+Mudel: G6-OPA 15.5 ÜMBEREHITUS
+Veoki kuuluvas: KEHTNA KOMANDO
+Mudeli valmimise aasta: 2023
+Kasutatud põhimudel: SSM KAMAZ-53212
+Kasutatud materjalid: PLASTIK, METALL,  FÖTOSÖÖVITUS
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: TURI
+Mark: MAZ-5334
+Mudel: ATS-7.0 ÜMBEREHITUS
+Veoki kuuluvas: TÜRI KOMANDO
+Mudeli valmimise aasta: 2026
+Kasutatud põhimudel: SSM MAZ-5334
+Kasutatud materjalid: PLASTIK, METALL, FÖTOSÖÖVITUS
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: ASSAKU
+Mark: MAZ-5334
+Mudel: TZA-7.5 ÜMBEREHITUS
+Veoki kuuluvas: ASSAKU KOMANDO
+Mudeli valmimise aasta: 2026
+Kasutatud põhimudel: SSM MAZ-5334
+Kasutatud materjalid: PLASTIK, METALL, FÖTOSÖÖVITUS
+Kulunud aeg: 4 nädalat
+
+
+FOLDER: AC4
+Mark: ZIL-131
+Mudel: AC4.0
+Veoki kuuluvas: KODE KOMANDO
+Mudeli valmimise aasta: 2026
+Kasutatud põhimudel: SSM ZIL131 AC4.0
+Kasutatud materjalid: PLASTIK, METALL, FÖTOSÖÖVITUS
+Kulunud aeg: 2 nädalat
