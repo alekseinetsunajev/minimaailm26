@@ -186,6 +186,36 @@ main > section p {
   outline-offset: 1px;
 }
 
+/* BRONTO: one portrait + two landscape photos on separate rows */
+.thumbs--bronto {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.thumbs--bronto .thumbs-row {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.thumbs--bronto .thumb--portrait {
+  flex: 0 0 auto;
+  width: auto;
+  max-width: 5.5rem;
+  max-height: 8.5rem;
+  min-height: 0;
+  object-fit: contain;
+}
+
+.thumbs--bronto .thumb--landscape {
+  flex: 0 1 auto;
+  width: auto;
+  max-width: 11rem;
+  max-height: 5rem;
+  min-height: 0;
+  object-fit: contain;
+}
+
 .photo-lightbox {
   position: fixed;
   top: 50%;
